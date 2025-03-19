@@ -1,0 +1,1 @@
+In this lab, we learned how to create and manage branches in Git, add and commit files, and perform a pull request to merge changes from a feature branch to the main branch. 
